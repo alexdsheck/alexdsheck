@@ -1,5 +1,5 @@
 - Hi, I’m @alexdsheck
-- I’m interested in Artificial Intelligence and Machine Learning
+- I’m interested in Artificial Intelligence, Machine Learning, and Software Engineering
 
 <!---
 alexdsheck/alexdsheck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
